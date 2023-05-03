@@ -34,5 +34,10 @@ As a software engineer. I learned Python for 𝐏𝐲𝐭𝐡𝐨𝐧 𝐛𝐚�
 <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='40' height='40'></a>  
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
 
+#### 👇YouTube:
+
+<a target="_blank" href="https://www.youtube.com/embed/eFtn8dyPYdA"><img src='https://images.unsplash.com/photo-1611162616475-46b635cb6868?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8eW91dHViZSUyMGxvZ298ZW58MHx8MHx8&w=1000&q=80' width="200px"/></a>
+
+<!-- <iframe width="200" src="https://www.youtube.com/embed/eFtn8dyPYdA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
 GitHub profile readme generator Linke: `https://arturssmirnovs.github.io/github-profile-readme-generator/`

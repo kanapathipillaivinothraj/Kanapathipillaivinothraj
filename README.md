@@ -26,4 +26,4 @@ As a software engineer. I learned Python for 𝐏𝐲𝐭𝐡𝐨𝐧 𝐛𝐚�
 
 
  
-
+Linke: `https://arturssmirnovs.github.io/github-profile-readme-generator/`

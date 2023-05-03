@@ -7,12 +7,10 @@ Linkedin :- `https://www.linkedin.com/in/vinothrajkanapathipillai-django/`
 
 ## Explore 🧠 my skills 👇🏻
 1. Django REST Framework
-2. PyQt
-3. Pytest
-4. GitHub
-5. MongoDB
-6. Microsoft SQL Server
-7. Linux
-8. Python
-9. Web Development (HTML5 | CSS3 | JavaScript | Bootstrap) 
-10. Microsoft (Office | Excel | word | PowerPoint)
+2. Pytest
+3. GitHub
+4. MongoDB
+5. Microsoft SQL Server
+6. Python
+7. Web Development (HTML5 | CSS3 | JavaScript | Bootstrap) 
+8. Microsoft (Office | Excel | word | PowerPoint)

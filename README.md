@@ -21,12 +21,11 @@ As a software engineer. I learned Python for 𝐏𝐲𝐭𝐡𝐨𝐧 𝐛𝐚�
 #### 👇Project:
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanapathipillaivinothraj)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kanapathipillaivinothraj&show_icons=true) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanapathipillaivinothraj)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kanapathipillaivinothraj&show_icons=true&theme=radical) 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=kanapathipillaivinothraj)   
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=kanapathipillaivinothraj)](https://github.com/ryo-ma/github-profile-trophy) 
-
 
  
 Linke: `https://arturssmirnovs.github.io/github-profile-readme-generator/`

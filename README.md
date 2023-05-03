@@ -1,5 +1,5 @@
 ### Hi there 👋, Vinothraj Kanapathipillai
-#####  Python backend developer [django]
+####  Python backend developer [django]
 
 ![Profile views](https://gpvc.arturio.dev/kanapathipillaivinothraj) <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='20' height='20'></a>  <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='20' height='20'>
 </a>   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='15'>](https://github.com/kanapathipillaivinothraj)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='15'>](https://www.linkedin.com/in/vinothrajkanapathipillai-django/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='15'>](https://www.youtube.com/@take_it_easy1325)
@@ -19,7 +19,8 @@ As a software engineer. I learned Python for 𝐏𝐲𝐭𝐡𝐨𝐧 𝐛𝐚�
 - Microsoft (Office | Excel | word | PowerPoint)
 
 #### 👇Project:
-
+##### Linkedin clone :
+<a herf = 'https://lnkd.in/gC3Kp-rj'> <img src='https://media.licdn.com/dms/image/D5622AQEYhtWaB-7joA/feedshare-shrink_800/0/1682958379907?e=1686182400&v=beta&t=GICRi57rmR2FpA--bndlwpM2j6TwqIYKGgHm6gIPkmA' width="200px" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanapathipillaivinothraj)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kanapathipillaivinothraj&show_icons=true&theme=radical) 
 

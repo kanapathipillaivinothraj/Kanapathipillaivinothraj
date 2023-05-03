@@ -2,7 +2,7 @@
 #####  Python backend developer [django]
 
 ![Profile views](https://gpvc.arturio.dev/kanapathipillaivinothraj) <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='20' height='20'></a>  <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='20' height='20'>
-</a>   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='15'>](https://github.com/kanapathipillaivinothraj)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='15'>](https://www.linkedin.com/in/https://www.linkedin.com/in/vinothrajkanapathipillai-django//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='15'>](https://www.youtube.com/channel/https://youtube.com/@take_it_easy1325)
+</a>   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='15'>](https://github.com/kanapathipillaivinothraj)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='15'>](https://www.linkedin.com/in/vinothrajkanapathipillai-django/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='15'>](https://www.youtube.com/channel/@take_it_easy1325)
 
 ![ Python backend developer [django]](https://media.licdn.com/dms/image/D5616AQFP8qIllLxsiA/profile-displaybackgroundimage-shrink_350_1400/0/1683143401349?e=1688601600&v=beta&t=ttZD8oJPQdUuGcAytD7C3QjIjS4Isso98qIdO0eAZI8)
 

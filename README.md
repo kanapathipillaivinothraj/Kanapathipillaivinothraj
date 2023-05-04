@@ -2,8 +2,16 @@
 ####  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=F70000&background=CC83FF00&width=435&lines=Python+Developer)](https://git.io/typing-svg)
 ![ Python backend developer [django]](https://media.licdn.com/dms/image/D5616AQFP8qIllLxsiA/profile-displaybackgroundimage-shrink_350_1400/0/1683143401349?e=1688601600&v=beta&t=ttZD8oJPQdUuGcAytD7C3QjIjS4Isso98qIdO0eAZI8)
 
-![Profile views](https://gpvc.arturio.dev/kanapathipillaivinothraj) <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='20' height='20'></a>  <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='20' height='20'>
-</a>   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='15'>](https://github.com/kanapathipillaivinothraj)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='15'>](https://www.linkedin.com/in/vinothrajkanapathipillai/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='15'>](https://www.youtube.com/@take_it_easy1325)
+<div id="badges" align="center">
+  <a href="vinothrajkanapathipillai">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/@take_it_easy1325">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+</div>
+
+![Profile views](https://gpvc.arturio.dev/kanapathipillaivinothraj) 
 
 As a software engineer. I learned Python for 𝐏𝐲𝐭𝐡𝐨𝐧 𝐛𝐚𝐜𝐤𝐞𝐧𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 and attended a few internships in web development-related jobs, internship details are in the experience section. I build great 𝐫𝐨𝐛𝐮𝐬𝐭 𝐰𝐞𝐛 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 and I can work on Python-related projects like 𝐦𝐚𝐜𝐡𝐢𝐧𝐞 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠. Because I am always a quick learner of new things.
 

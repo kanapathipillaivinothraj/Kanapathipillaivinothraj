@@ -41,8 +41,7 @@
 
 #### 👇GitHub profile maintain:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanapathipillaivinothraj)](https://github.com/anuraghazra/github-readme-stats) 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanapathipillaivinothraj)
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kanapathipillaivinothraj&show_icons=true&theme=radical)  -->
 
 

@@ -1,5 +1,5 @@
 ### Hi there 👋, Vinothraj Kanapathipillai
-####  Python backend developer [django]
+####  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=F70000&background=CC83FF00&width=435&lines=Python+Developer)](https://git.io/typing-svg)
 ![ Python backend developer [django]](https://media.licdn.com/dms/image/D5616AQFP8qIllLxsiA/profile-displaybackgroundimage-shrink_350_1400/0/1683143401349?e=1688601600&v=beta&t=ttZD8oJPQdUuGcAytD7C3QjIjS4Isso98qIdO0eAZI8)
 
 ![Profile views](https://gpvc.arturio.dev/kanapathipillaivinothraj) <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='20' height='20'></a>  <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='20' height='20'>
@@ -41,3 +41,4 @@ As a software engineer. I learned Python for 𝐏𝐲𝐭𝐡𝐨𝐧 𝐛𝐚�
 <!-- <iframe width="200" src="https://www.youtube.com/embed/eFtn8dyPYdA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
 GitHub profile readme generator Linke: `https://arturssmirnovs.github.io/github-profile-readme-generator/`
+Github typing svg: `https://readme-typing-svg.demolab.com/demo/`

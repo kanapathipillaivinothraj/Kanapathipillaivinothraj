@@ -52,5 +52,8 @@ As a software engineer. I learned Python for 𝐏𝐲𝐭𝐡𝐨𝐧 𝐛𝐚�
 <!-- <iframe width="200" src="https://www.youtube.com/embed/eFtn8dyPYdA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
 GitHub profile readme generator Linke: `https://arturssmirnovs.github.io/github-profile-readme-generator/`
+
 Github typing svg: `https://readme-typing-svg.demolab.com/demo/`
+
 GitHub readme: `https://www.sitepoint.com/github-profile-readme/`
+

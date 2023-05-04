@@ -41,7 +41,8 @@
 
 #### 👇GitHub profile maintain:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanapathipillaivinothraj)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanapathipillaivinothraj&layout=compact&theme=vision-friendly-dark)
+
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kanapathipillaivinothraj&show_icons=true&theme=radical)  -->
 
 
@@ -63,3 +64,4 @@ GitHub profile readme generator Linke: `https://arturssmirnovs.github.io/github-
 Github typing svg: `https://readme-typing-svg.demolab.com/demo/`
 
 GitHub readme: `https://www.sitepoint.com/github-profile-readme/`
+

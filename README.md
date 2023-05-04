@@ -36,20 +36,22 @@
 
 #### 👇Project:
 ##### Linkedin clone :
-<a herf = 'https://github.com/kanapathipillaivinothraj/clone-linkedin' target='_blank'><img src='https://media.licdn.com/dms/image/D5622AQEYhtWaB-7joA/feedshare-shrink_800/0/1682958379907?e=1686182400&v=beta&t=GICRi57rmR2FpA--bndlwpM2j6TwqIYKGgHm6gIPkmA' width="200px" /></a>
+<a herf = 'https://github.com/kanapathipillaivinothraj/clone-linkedin' target='_blank'><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
 
 #### 👇GitHub profile maintain:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanapathipillaivinothraj)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kanapathipillaivinothraj&show_icons=true&theme=radical) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanapathipillaivinothraj)](https://github.com/anuraghazra/github-readme-stats) 
+
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kanapathipillaivinothraj&show_icons=true&theme=radical)  -->
 
 
  #### 👇GitHub tropty:
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=kanapathipillaivinothraj)](https://github.com/ryo-ma/github-profile-trophy) 
 
-<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='40' height='40'></a>  
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
+<!-- <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='40' height='40'></a>  
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> -->
 
 #### 👇YouTube:
 

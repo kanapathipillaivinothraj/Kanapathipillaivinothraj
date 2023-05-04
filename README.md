@@ -42,7 +42,7 @@
 
 #### 👇Project:
 ##### Linkedin clone :
-<a herf = 'https://github.com/kanapathipillaivinothraj/clone-linkedin'><img src='https://media.licdn.com/dms/image/D5622AQEYhtWaB-7joA/feedshare-shrink_800/0/1682958379907?e=1686182400&v=beta&t=GICRi57rmR2FpA--bndlwpM2j6TwqIYKGgHm6gIPkmA' width="200px" /></a>
+<a herf = 'https://github.com/kanapathipillaivinothraj/clone-linkedin' target='_blank'><img src='https://media.licdn.com/dms/image/D5622AQEYhtWaB-7joA/feedshare-shrink_800/0/1682958379907?e=1686182400&v=beta&t=GICRi57rmR2FpA--bndlwpM2j6TwqIYKGgHm6gIPkmA' width="200px" /></a>
 
 
 #### 👇GitHub profile maintain:

@@ -1,11 +1,13 @@
-
-
+<div id="banner" align="center">
+  <a href="https://www.linkedin.com/in/vinothrajkanapathipillai/" target= "_blank">
+    <img src="https://media.licdn.com/dms/image/D5616AQFP8qIllLxsiA/profile-displaybackgroundimage-shrink_350_1400/0/1683143401349?e=1688601600&v=beta&t=ttZD8oJPQdUuGcAytD7C3QjIjS4Isso98qIdO0eAZI8" alt="my-banner"/>
+  </a>
+</div>
+<!--  -->
 <div id="header" align="center">
-   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80"/>
   <p><h1> Hi there 👋 <br> I'm Vinothraj Kanapathipillai</h1></p>
 </div>
-
-
+<!--  -->
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/vinothrajkanapathipillai/" target= "_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -17,17 +19,11 @@
     <img src="https://komarev.com/ghpvc/?username=kanapathipillaivinothraj&style=for-the-badge&color=blue" alt="profile-view"/>
   </a>
 </div>
-
-<div id="banner" align="center">
-  <a href="https://www.linkedin.com/in/vinothrajkanapathipillai/" target= "_blank">
-    <img src="https://media.licdn.com/dms/image/D5616AQFP8qIllLxsiA/profile-displaybackgroundimage-shrink_350_1400/0/1683143401349?e=1688601600&v=beta&t=ttZD8oJPQdUuGcAytD7C3QjIjS4Isso98qIdO0eAZI8" alt="my-banner"/>
-  </a>
-</div>
-
+<!--  -->
 <div id="header" align="justify">
   <p><h4> As a software engineer. I learned Python for 𝐏𝐲𝐭𝐡𝐨𝐧 𝐛𝐚𝐜𝐤𝐞𝐧𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 and attended a few internships in web development-related jobs, internship details are in the experience section. I build great 𝐫𝐨𝐛𝐮𝐬𝐭 𝐰𝐞𝐛 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 and I can work on Python-related projects like 𝐦𝐚𝐜𝐡𝐢𝐧𝐞 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠. Because I am always a quick learner of new things.</h4></p>
 </div>
-
+<!--  -->
 
 
 

@@ -34,11 +34,6 @@
 - Web Development (HTML5 | CSS3 | JavaScript | Bootstrap) 
 - Microsoft (Office | Excel | word | PowerPoint)
 
-#### 👇Project:
-##### Linkedin clone :
-<a herf = 'https://github.com/kanapathipillaivinothraj/clone-linkedin' target='_blank'><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-
-
 #### 👇GitHub profile maintain:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanapathipillaivinothraj&layout=compact&theme=vision-friendly-dark)

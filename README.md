@@ -1,11 +1,12 @@
-<div id="banner" align="center">
-  <a href="https://www.linkedin.com/in/vinothrajkanapathipillai/" target= "_blank">
-    <img src="" alt="my-banner"/>
-  </a>
-</div>
 <!--  -->
 <div id="header" align="center">
   <p><h1> Hi there 👋 <br> I'm Vinothraj Kanapathipillai</h1></p>
+</div>
+<!--  -->
+<div id="banner" align="center">
+  <a href="https://www.linkedin.com/in/vinothrajkanapathipillai/" target= "_blank">
+    <img src="https://user-images.githubusercontent.com/96970897/236408534-9681db38-2e67-40fa-8312-0b020b763071.png" alt="my-banner"/>
+  </a>
 </div>
 <!--  -->
 <div id="badges" align="center">
@@ -21,10 +22,17 @@
 </div>
 <!--  -->
 <div id="header" align="justify">
-  <p><h4> As a software engineer. I learned Python for 𝐏𝐲𝐭𝐡𝐨𝐧 𝐛𝐚𝐜𝐤𝐞𝐧𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 and attended a few internships in web development-related jobs, internship details are in the experience section. I build great 𝐫𝐨𝐛𝐮𝐬𝐭 𝐰𝐞𝐛 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 and I can work on Python-related projects like 𝐦𝐚𝐜𝐡𝐢𝐧𝐞 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠. Because I am always a quick learner of new things.</h4></p>
+  <h2> 👇About :</h2>
+  <p><h6> As a software engineer. I learned Python for 𝐏𝐲𝐭𝐡𝐨𝐧 𝐛𝐚𝐜𝐤𝐞𝐧𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 and attended a few internships in web development-related jobs, internship details are in the experience section. I build great 𝐫𝐨𝐛𝐮𝐬𝐭 𝐰𝐞𝐛 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 and I can work on Python-related projects like 𝐦𝐚𝐜𝐡𝐢𝐧𝐞 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠. Because I am always a quick learner of new things.</h6></p>
 </div>
 <!--  -->
-#### 👇🏻Skills: 
+<div id="header" align="justify">
+  <h2> 👇skills :</h2>
+</div>
+
+
+<!--  -->
+####  
 - Django REST Framework 
 - Pytest 
 - GitHub 

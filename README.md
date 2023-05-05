@@ -1,6 +1,6 @@
 <div id="banner" align="center">
   <a href="https://www.linkedin.com/in/vinothrajkanapathipillai/" target= "_blank">
-    <img src="https://media.licdn.com/dms/image/D5616AQFP8qIllLxsiA/profile-displaybackgroundimage-shrink_350_1400/0/1683143401349?e=1688601600&v=beta&t=ttZD8oJPQdUuGcAytD7C3QjIjS4Isso98qIdO0eAZI8" alt="my-banner"/>
+    <img src="" alt="my-banner"/>
   </a>
 </div>
 <!--  -->

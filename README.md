@@ -5,7 +5,7 @@
 <!--  -->
 <div id="banner" align="center">
   <a href="https://www.linkedin.com/in/vinothrajkanapathipillai/" target= "_blank">
-    <img src="https://user-images.githubusercontent.com/96970897/236408534-9681db38-2e67-40fa-8312-0b020b763071.png" alt="my-banner"/>
+    <img src="https://github.com/kanapathipillaivinothraj/Linked-clone/assets/96970897/ce7a462d-2350-462b-9051-09a7439d887a" alt="my-banner"/>
   </a>
 </div>
 <!--  -->
@@ -21,10 +21,10 @@
   </a>
 </div>
 <!--  -->
-<div id="header" align="justify">
+<!-- <div id="header" align="justify">
   <h2> 👇About :</h2>
   <p><h6> As a software engineer. I learned Python for 𝐏𝐲𝐭𝐡𝐨𝐧 𝐛𝐚𝐜𝐤𝐞𝐧𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 and attended a few internships in web development-related jobs, internship details are in the experience section. I build great 𝐫𝐨𝐛𝐮𝐬𝐭 𝐰𝐞𝐛 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 and I can work on Python-related projects like 𝐦𝐚𝐜𝐡𝐢𝐧𝐞 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠. Because I am always a quick learner of new things.</h6></p>
-</div>
+</div> -->
 <!--  -->
 <div id="header" align="justify">
   <h2> 👇skills :</h2>
@@ -62,9 +62,9 @@
 
 <!-- <iframe width="200" src="https://www.youtube.com/embed/eFtn8dyPYdA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
-GitHub profile readme generator Linke: `https://arturssmirnovs.github.io/github-profile-readme-generator/`
+<!-- GitHub profile readme generator Linke: `https://arturssmirnovs.github.io/github-profile-readme-generator/`
 
 Github typing svg: `https://readme-typing-svg.demolab.com/demo/`
 
-GitHub readme: `https://www.sitepoint.com/github-profile-readme/`
+GitHub readme: `https://www.sitepoint.com/github-profile-readme/` -->
 

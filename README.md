@@ -13,6 +13,9 @@
   <a href="https://www.linkedin.com/in/vinothrajkanapathipillai/" target= "_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://www.instagram.com/vinothrajkanapathipillai/?igshid=ZDc4ODBmNjlmNQ%3D%3D" target= "_blank">
+    <img src="https://img.shields.io/badge/instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
   <a href="https://www.youtube.com/@take_it_easy1325" target= "_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
